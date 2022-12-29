@@ -15,3 +15,24 @@
     margin-left: 40%;
     margin-top: 4%;
 }
+
+.corpo{
+    background-color: #2b2b2b;
+    border: 2px solid #2b2b2b;
+    border-radius: 15px;
+    height: 200px;
+    margin-top: 1.5%;
+}
+
+.sorteio{
+    margin-left: 48%;
+    margin-top: 8%;
+}
+
+footer{
+    border: 2px solid #2b2b2b;
+    border-radius: 15px;
+    margin-top: 1.5%;
+    color: white;
+    background-color: #2b2b2b;
+}
